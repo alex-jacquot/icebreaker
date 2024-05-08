@@ -1,0 +1,1027 @@
+[
+  {
+    "category": 2,
+    "tags": ["adventure"],
+    "question": "What's the most adventurous thing you've ever done?"
+  },
+  {
+    "category": 1,
+    "tags": ["animals", "pets"],
+    "question": "Cats, dogs, or hamster?"
+  },
+  {
+    "category": 1,
+    "tags": ["books", "reading"],
+    "question": "What's the last book you read?"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "You must lick the forearm of the person on your left or take 5 drinks."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "You must do 5 pushups or drink."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Hold your breath for 42 seconds or drink"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "You must whisper your sexiest sentence in the ear of someone of your choice or take 4 sips. "
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Do you watch porn?"
+  },
+  {
+    "category": 2,
+    "tags": ["debate", "feminism"],
+    "question": "What do you think of feminism?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "What is the best pizza topping?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate", "drinking"],
+    "question": "Coca-cola, pepsi or water?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Is leftover pizza better cold or re-heated?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate", "pets", "animals"],
+    "question": "Cats > Dogs?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Do you pronounce it GIF or JIF?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "How much does size matter?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Who has the most tattoos in the group?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Who is the most gullible in the group?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Is it better to be a morning person than a night person?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Who's the dorkiest person in this room?"
+  },
+  {
+    "category": 3,
+    "tags": ["debate", "travel"],
+    "question": "On 3, raise your hand if you think you have visited the most countries."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Each person must name 1 cocktail within 5 seconds or drink, until no one can name anymore"
+  },
+  {
+    "category": 2,
+    "tags": ["drinking", "alcohol"],
+    "question": "Have you ever had a blackout drinking? "
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Search for the word \"suck\" in your phone and read out the most recent text. If it's funny give out five sips, if not, drink them."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Choose someone and demonstrate your favourite sex position or down your drink."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking", "debate"],
+    "question": "What's the best alcoholic cocktail, ever?"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Choose a forbidden word, whoever says that word at anytime today must immediatly drink sips"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "First person to pull out a condom can give out 3 sips"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Choose a person.  Everytime you speak to that person, you must high five them."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "The 2nd tallest person in the group must drink 3 sips."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking", "debate"],
+    "question": "If we were to play the Hunger games, who'd be the most likely to survive"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "For the next 5 minutes, you must speak with the Russian accent.Any failure makes you drink 1 sip."
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "Who's the biggest party animal of the group?"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "If you're wearing lipstick, you must drink 2 sips."
+  },
+  {
+    "category": 2,
+    "tags": ["famous", "people"],
+    "question": "Who's your celebrity crush?"
+  },
+  {
+    "category": 1,
+    "tags": ["famous", "people"],
+    "question": "If you could spend a day with any famous person and do anything, who would you choose?"
+  },
+  {
+    "category": 1,
+    "tags": ["fiction"],
+    "question": "If you could spend a day with any fictional character, who would it be?"
+  },
+  {
+    "category": 2,
+    "tags": ["fight"],
+    "question": "Have you ever fought someone bloody?"
+  },
+  {
+    "category": 1,
+    "tags": ["food", "cooking"],
+    "question": "What's your favorite type of cuisine?"
+  },
+  {
+    "category": 1,
+    "tags": ["food", "cooking"],
+    "question": "Do you have a signature dish you are very good at cooking?"
+  },
+  {
+    "category": 1,
+    "tags": ["food", "pizza"],
+    "question": "On a scale from 1 to 10, how much do you hate pineapple pizza, and why is it 10?"
+  },
+  {
+    "category": 3,
+    "tags": ["french", "debate", "drinking"],
+    "question": "Vote for the person with the worst French in the room, whoever is voted must take 3 sips."
+  },
+  {
+    "category": 3,
+    "tags": ["friends"],
+    "question": "You must invent a new handshake with the person to your right"
+  },
+  {
+    "category": 3,
+    "tags": ["games", "entertainment"],
+    "question": "What's your favorite board game or card game?"
+  },
+  {
+    "category": 3,
+    "tags": ["games", "group"],
+    "question": "What's your favorite short group game?"
+  },
+  {
+    "category": 3,
+    "tags": ["games", "group"],
+    "question": "If you were on a deserted island with a group, what game would you play?"
+  },
+  {
+    "category": 1,
+    "tags": ["gifts", "friends"],
+    "question": "What is the best gift you've ever received?"
+  },
+  {
+    "category": 2,
+    "tags": ["history"],
+    "question": "If you could have dinner with any historical figure, who would it be?"
+  },
+  {
+    "category": 1,
+    "tags": ["history"],
+    "question": "If you had to live in an ancient civilization, which one would you choose?"
+  },
+  {
+    "category": 3,
+    "tags": ["language"],
+    "question": "For the next 5 minutes, you must speak with the German accent.Any failure makes you drink 1 sip."
+  },
+  {
+    "category": 3,
+    "tags": ["language"],
+    "question": "For the next 5 minutes, you must speak with the French accent.Any failure makes you drink 1 sip."
+  },
+  {
+    "category": 3,
+    "tags": ["language"],
+    "question": "For the next 5 minutes, you must speak with the Indian accent.Any failure makes you drink 1 sip."
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "What is your favorite part of your day?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "Have you ever changed your mind about something you were once sure about?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "If you could invite any three people from history over for dinner, who would you choose?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "What would your perfect day look like?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "What is the most meaningful thing someone ever said to you?"
+  },
+  {
+    "category": 1,
+    "tags": ["life", "timetravel"],
+    "question": "If you could go back in time and do something differently, what would you change?"
+  },
+  {
+    "category": 2,
+    "tags": ["life"],
+    "question": "What's your biggest regret in life?"
+  },
+  {
+    "category": 3,
+    "tags": ["love"],
+    "question": "What's the most romantic things you've done?"
+  },
+  {
+    "category": 1,
+    "tags": ["love"],
+    "question": "What do you think about marriage?"
+  },
+  {
+    "category": 2,
+    "tags": ["love ", "relationships"],
+    "question": "Do you think you're a good boyfriend / girlfriend?"
+  },
+  {
+    "category": 1,
+    "tags": ["love ", "relationships"],
+    "question": "What's your longest relationship?"
+  },
+  {
+    "category": 2,
+    "tags": ["love ", "dating"],
+    "question": "How many drinks would it take for us to kiss?"
+  },
+  {
+    "category": 1,
+    "tags": ["love ", "dating"],
+    "question": "What’s your idea of a perfect date?"
+  },
+  {
+    "category": 1,
+    "tags": ["movies", "entertainment"],
+    "question": "What's your favorite movie?"
+  },
+  {
+    "category": 1,
+    "tags": ["movies"],
+    "question": "What's the worst movie you saw recently?"
+  },
+  {
+    "category": 1,
+    "tags": ["movies"],
+    "question": "Do you ever speak in movie quotes?"
+  },
+  {
+    "category": 1,
+    "tags": ["music", "entertainment"],
+    "question": "What's your go-to karaoke song?"
+  },
+  {
+    "category": 2,
+    "tags": ["music", "love"],
+    "question": "What’s the top song on your make-out playlist?"
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "camping"],
+    "question": "Never have I ever gone camping in the wilderness."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "karaoke"],
+    "question": "Never have I ever sung karaoke in front of a crowd."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "travel"],
+    "question": "Never have I ever traveled outside my home continent."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "flashmob"],
+    "question": "Never have I ever participated in a flash mob."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever gone on a blind date."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever creeped an ex on social media."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been hungover."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever kissed my best friend."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever ghosted someone."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever gotten a speeding ticket."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever slid into someone's DMs."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever dined and dashed."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever used a fake ID."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever had a crush or a relationship with a teacher."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "love"],
+    "question": "Never have I ever been in love."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever made out in a public place."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever gotten into a physical fight."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever had an alcoholic drink."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever played spin the bottle."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever snooped through someone's phone."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever snuck into a movie theater."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "dating"],
+    "question": "Never have I ever kissed a friend's ex."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever told someone \"I love you\" without meaning it."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been called a player."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever smoked a cigarette."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever given a lap dance."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever gotten a lap dance."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever cheated on a test."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever used a dating app."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever kissed more than one person in 24 hours."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever cheated on someone."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been cheated on."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever sent a tough text to the wrong person."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever had a negative bank account balance."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever played strip poker."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been arrested."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been expelled."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever stolen anything."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever gotten a hickey."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been fired."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever made out in a movie theater."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever dated someone older than me."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever dated someone younger than me."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever broken the law."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been to a nude beach."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever stood a date up."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever stayed in a relationship that I really wasn’t feeling."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever given someone a fake phone number."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever lied to someone in this room."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever broken up with someone over text."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever been in deep, true love."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever", "travel"],
+    "question": "Never have I ever travelled alone"
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever faked an orgasm."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Say words beginning by a Z, until someone cannot find one or repeat one. He must take 5 sips."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveiever"],
+    "question": "Never have I ever spent 4 days without a shower."
+  },
+  {
+    "category": 3,
+    "tags": ["neverhaveIever"],
+    "question": "Never have I ever had sex at work."
+  },
+  {
+    "category": 2,
+    "tags": ["personnality"],
+    "question": "Have you ever taken a personnality test?"
+  },
+  {
+    "category": 2,
+    "tags": ["personnality", "smart"],
+    "question": "Have you ever taken an IQ test, and how much was it?"
+  },
+  {
+    "category": 1,
+    "tags": ["philosophy"],
+    "question": "What is your favorite quote?"
+  },
+  {
+    "category": 2,
+    "tags": ["politics", "debate"],
+    "question": "Are you part of a political party or have strong political convictions?"
+  },
+  {
+    "category": 2,
+    "tags": ["politics"],
+    "question": "If you could name any person in the world to be killed tomorrow, who would it be?"
+  },
+  {
+    "category": 1,
+    "tags": ["random"],
+    "question": "What's a random fact about you?"
+  },
+  {
+    "category": 1,
+    "tags": ["series"],
+    "question": "What's the worst series you saw recently?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "What's your bodycount (number of people you slept with with, not killed)?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "What's your favourite sexual position in bed?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "Do you have any sexual kinks you dare to share?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "Have you ever had food involved in a sexual activity?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "What is your secret turn-on?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "Have you ever had one-night stands?"
+  },
+  {
+    "category": 3,
+    "tags": ["sex"],
+    "question": "On 3, whoever thinks had the most sexual partners must raise his/her hand"
+  },
+  {
+    "category": 3,
+    "tags": ["sex", "alcohol"],
+    "question": "Describe your best sexual experience or drink 3 sips"
+  },
+  {
+    "category": 2,
+    "tags": ["sex", "love"],
+    "question": "Which is better: makeup sex or breakup sex?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex", "love"],
+    "question": "Lights on, lights off or candles?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex", "love"],
+    "question": "Where’s the craziest place you’ve ever had sex?"
+  },
+  {
+    "category": 3,
+    "tags": ["sex"],
+    "question": "In this room, choose whoever is most likely to be a player. They must drink 3 times."
+  },
+  {
+    "category": 3,
+    "tags": ["sex", "friends"],
+    "question": "Never have I ever hooked up with a friend."
+  },
+  {
+    "category": 3,
+    "tags": ["sex"],
+    "question": "What is the dirtiest text you've ever sent?"
+  },
+  {
+    "category": 2,
+    "tags": ["sex"],
+    "question": "Did you ever have sex without protection?"
+  },
+  {
+    "category": 2,
+    "tags": ["superpowers"],
+    "question": "If you could have any superpower, what would it be?"
+  },
+  {
+    "category": 2,
+    "tags": ["time travel"],
+    "question": "If you could time travel, would you go to the past or the future?"
+  },
+  {
+    "category": 1,
+    "tags": ["travel"],
+    "question": "If you could visit any place in the world, where would you go?"
+  },
+  {
+    "category": 1,
+    "tags": ["travel"],
+    "question": "How many countries have you been to?"
+  },
+  {
+    "category": 1,
+    "tags": ["travel"],
+    "question": "If you could be anywhere in the world, where would you be?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather", "expertise"],
+    "question": "Would you rather be an expert in playing a musical instrument or a foreign language?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather", "superpowers"],
+    "question": "Would you rather have the ability to fly or be invisible?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather", "preference"],
+    "question": "Would you rather live in the mountains or by the beach?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather", "timetravel"],
+    "question": "Would you rather have the ability to time travel to the past or the future?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather", "superpowers"],
+    "question": "Would you rather have the ability to teleport or read minds?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather find true love today or win the lottery next year?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have universal respect or unlimited power?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have a personal maid or a personal chef?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather be 11 feet tall or nine inches tall?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have a pause or a rewind button in your life?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather die in 20 years with no regrets or live to 100 with a lot of regrets?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather win $25,000 or your best friend win $50,000?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather eat only pizza for a year or not eat any pizza for five years?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather talk like Yoda or breathe like Darth Vader?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather give up cursing forever or give up ice cream for 12 years?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather work for Michael Scott or Mr. Burns?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather live until you are 200 and look your age or look like you're 22 your whole life, but die at age 65?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather someone see all the photos in your phone or read all your text messages?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather find your soulmate or your calling?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather give up wine for a year or drink nothing but wine for a year?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather be able to read minds or predict the future?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather find a $100 bill floating in a public toilet or a $20 bill in your own pocket?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather give your parents or your boss access to your browser history?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have your first child when you're 18 or when you're 50?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather know when you're going to die or how you're going to die?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have the ability to see 10 years into your own future or six months into the future of the world?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather be color blind or lose your sense of taste?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather be a genius everyone thinks is an idiot or an idiot everyone thinks is a genius?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather read the book or watch the movie?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather be the class clown or the teacher's pet?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather sell all of your possessions or sell one of your organs?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have one wish granted today or 10 wishes granted 20 years from now?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Never have I ever puked."
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather work for Google or Meta?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "What is your weakness?"
+  },
+  {
+    "category": 1,
+    "tags": ["life"],
+    "question": "What's the best thing about you?"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Play air guitar for 10 seconds straight "
+  },
+  {
+    "category": 3,
+    "tags": ["dare", "singing"],
+    "question": "Fill your mouth with drink, then gurgle a song of your choice. If no one guesses you must drink 3 (additionnal) sips."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Open TikTok and do the first dance that appears."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Try to lick your elbow for 10 seconds or drink."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Give a personnalized insult to everyone in the group."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Scroll through your phone book until someone says stop. You either have to call or delete that person."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Comment a fire emoji on the first five pictures on your Instagram feed"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Read out of the last five things on your search history."
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Go talk to someone outside the group with whatever topic you want and make them smile"
+  },
+  {
+    "category": 3,
+    "tags": ["debate"],
+    "question": "Who is the funniest person here?"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Pretend to cry for 10 seconds or drink 5 sips"
+  },
+  {
+    "category": 3,
+    "tags": ["dare"],
+    "question": "Show your orgasm face or drink 3 sips."
+  },
+  {
+    "category": 3,
+    "tags": ["sports", "debate"],
+    "question": "What is the best sport ever?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather spend a week in the forest or a night in a real haunted house?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather have a third nipple or an extra toe?"
+  },
+  {
+    "category": 3,
+    "tags": ["wouldyourather"],
+    "question": "Would you rather smooch Chris Pratt, Chris Pine, Chris Evans or Chris Hemsworth?"
+  },
+  {
+    "category": 3,
+    "tags": ["drinking"],
+    "question": "All the single people in the room must drink once."
+  }
+]
