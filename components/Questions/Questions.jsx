@@ -4,14 +4,12 @@ import { FontAwesome } from "@expo/vector-icons"; // Fix import
 import { TouchableOpacity } from "react-native";
 import useQuestionManager from "../../hooks/useQuestionManager";
 import { useState } from "react";
-
+import { router } from "expo-router";
 const Questions = () => {
   const [question, setQuestion] = useState(
     "What's your burning question today?"
   );
   const { questions, getRandomQuestion } = useQuestionManager();
-
-
 
   return (
     <View
@@ -19,14 +17,20 @@ const Questions = () => {
     >
       {/* Top Bar */}
       <View className="flex flex-row">
-        <TouchableOpacity className="items-start">
+        <TouchableOpacity
+          className="items-start"
+          onPress={() => router.push("/filters")}
+        >
           <FontAwesome
             name="filter"
             size={24}
             color="gray-500 dark:text-gray-800"
           />
         </TouchableOpacity>
-        <TouchableOpacity className="items-end">
+        <TouchableOpacity
+          className="items-end"
+          onPress={() => router.push("/settings")}
+        >
           <FontAwesome
             name="cog"
             size={24}
