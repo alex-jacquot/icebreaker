@@ -4,8 +4,7 @@
 
 A rewrite of my Icebreaker application in React native (from native android Kotlin)
 
-![Logo](./assets/logo.jpg)
-
+<img src="./assets/logo.jpg" alt="Icebreaker logo" width="150"/>
 
 ## Description
 
@@ -13,11 +12,11 @@ Icebreaker is an app allowing you to loop through questions and games in casual 
 
 The application gives you random but customized questions and games based on any topics you want (or don't want). 
 
-![Preview](./assets/icebreaker.jpg)
+<img src="./assets/icebreaker.jpg" alt="Icebreaker app" width="250"/>
 
 To have proper customisation, the filters with which you can select which questions come up are called topics, which are precise. They can consist of general aspects (#sport, #relationships, #etc) to set of games (#neverhaveiever, #drinkinggames) or levels of sensitivity of questions (#casual, #deep).
 
-![Preview of filters](./assets/icebreaker-filters.jpg)
+<img src="./assets/icebreaker-filters.jpg" alt="Icebreaker filters" width="250"/>
 
 To make it easier for a user to not be overwhelmed, there is a Preset function that gives a more ordained sense by giving more general subjects, which will enable a certain group of topics (Party night will enable topics such as #drinkinggames #neverhaveiever, while presets like "Keep it Casual" will remove sensitive topics like sex or politics) 
 
