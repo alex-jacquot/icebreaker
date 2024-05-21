@@ -13,6 +13,10 @@ const RootLayout = () => {
       <Stack.Screen
         name="questions"
         options={{ headerShown: false }}
+      />
+      <Stack.Screen
+        name="filters"
+        options={{ headerShown: false }}
       /> 
     </Stack>
   );

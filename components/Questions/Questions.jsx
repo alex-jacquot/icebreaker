@@ -1,73 +1,67 @@
-import React from "react";
-import { View, Text, Button } from "react-native";
+import React, { useState } from "react";
+import { View, Text, Button, TouchableOpacity } from "react-native";
 import { FontAwesome } from "@expo/vector-icons"; // Fix import
-import { TouchableOpacity } from "react-native";
 import useQuestionManager from "../../hooks/useQuestionManager";
-import { useState } from "react";
 import { router } from "expo-router";
+
 const Questions = () => {
-  const [question, setQuestion] = useState(
-    "What's your burning question today?"
-  );
+  const [question, setQuestion] = useState({
+    question: "Press Next to get a random question!",
+    tags: [],
+  });
+
   const { questions, getRandomQuestion } = useQuestionManager();
+
+  const handleNextQuestion = () => {
+    const randomQuestion = getRandomQuestion();
+    setQuestion(randomQuestion);
+  };
 
   return (
     <View
       className={`h-full bg-gray-800 dark:bg-gray-100 px-8 py-12 flex flex-col justify-between`}
     >
       {/* Top Bar */}
-      <View className="flex flex-row">
+      <View className="flex flex-row justify-between">
         <TouchableOpacity
           className="items-start"
           onPress={() => router.push("/filters")}
         >
-          <FontAwesome
-            name="filter"
-            size={24}
-            color="gray-500 dark:text-gray-800"
-          />
+          <FontAwesome name="filter" size={24} color="gray" />
         </TouchableOpacity>
         <TouchableOpacity
           className="items-end"
           onPress={() => router.push("/settings")}
         >
-          <FontAwesome
-            name="cog"
-            size={24}
-            color="gray-500 dark:text-gray-800"
-          />
+          <FontAwesome name="cog" size={24} color="gray" />
         </TouchableOpacity>
       </View>
 
       {/* Main Question */}
       <View className="mt-16">
         <Text className="text-3xl font-bold text-white dark:text-gray-800 text-center">
-          {question}
+          {question.question}
         </Text>
       </View>
 
       {/* Tags */}
-      <View className="flex flex-row max-w-full">
-        {/* Your elements go here */}
-        <View className="bg-blue-500 text-white rounded px-4 py-2 mr-4 mt-2">
-          <Text>Life</Text>
-        </View>
-        <View className="bg-green-500 text-white rounded px-4 py-2 mr-4 mt-2">
-          <Text>Technology</Text>
-        </View>
-        <View className="bg-purple-500 text-white rounded px-4 py-2 mr-4 mt-2">
-          <Text>Relationships</Text>
-        </View>
-        <View className="bg-orange-500 text-white rounded px-4 py-2 mr-4 mt-2">
-          <Text>Career</Text>
-        </View>
+      <View className="flex flex-row flex-wrap mt-4">
+        {question.tags.map((tag, index) => (
+          <View
+            key={index}
+            className={`bg-blue-500 text-white rounded px-4 py-2 mr-4 mt-2`}
+            style={{ backgroundColor: getColorForTag(tag) }}
+          >
+            <Text>{tag}</Text>
+          </View>
+        ))}
       </View>
 
       {/* Description Text */}
       <View className="mt-16">
         <Button
           title="Next question"
-          onPress={() => setQuestion(getRandomQuestion().question)} // Use navigation API
+          onPress={handleNextQuestion}
           style={{ backgroundColor: "transparent", color: "white" }}
         />
       </View>
@@ -79,6 +73,21 @@ const Questions = () => {
       </View>
     </View>
   );
+};
+
+const getColorForTag = (tag) => {
+  switch (tag.toLowerCase()) {
+    case "life":
+      return "#4299E1"; // Blue
+    case "technology":
+      return "#48BB78"; // Green
+    case "relationships":
+      return "#9F7AEA"; // Purple
+    case "career":
+      return "#ED8936"; // Orange
+    default:
+      return "#718096"; // Gray
+  }
 };
 
 export default Questions;

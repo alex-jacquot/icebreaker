@@ -1,58 +1,37 @@
-import React, { useState } from "react";
-import { View, Text, TouchableOpacity } from "react-native";
-import { useNavigation } from "@react-navigation/native";
-import { Ionicons } from "@expo/vector-icons";
+import Presets from "./Presets";
+import Topics from "./Topics";
+import { useState } from "react";
+import	{	View,	Text,	TouchableOpacity	}	from	"react-native";
 
 const Filters = () => {
-  const navigation = useNavigation();
-  const [tag1Enabled, setTag1Enabled] = useState(false);
-  const [tag2Enabled, setTag2Enabled] = useState(false);
+  const [currentTab, setCurrentTab] = useState("Presets");
 
-  const handleTag1Toggle = () => {
-    setTag1Enabled(!tag1Enabled);
-  };
-
-  const handleTag2Toggle = () => {
-    setTag2Enabled(!tag2Enabled);
+  const handleTabPress = (tabName) => {
+    setCurrentTab(tabName);
   };
 
   return (
-    <View className="flex-1 justify-center items-center">
-      <TouchableOpacity
-        className={`flex-row items-center p-2 rounded-full ${
-          tag1Enabled ? "bg-blue-500" : "bg-gray-300"
-        }`}
-        onPress={handleTag1Toggle}
-      >
-        <Ionicons
-          name="ios-checkmark-circle"
-          size={24}
-          color={tag1Enabled ? "white" : "gray"}
-        />
-        <Text
-          className={`ml-2 ${tag1Enabled ? "text-white" : "text-gray-700"}`}
+    <View style={{ flex: 1 }}>
+      {currentTab === "Presets" && <Presets />}
+      {currentTab === "Topics" && <Topics />}
+      <View style={{ flexDirection: "row", justifyContent: "space-around" }}>
+        <TouchableOpacity
+          style={{ padding: 10 }}
+          onPress={() => handleTabPress("Presets")}
         >
-          Tag 1
-        </Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        className={`flex-row items-center mt-4 p-2 rounded-full ${
-          tag2Enabled ? "bg-blue-500" : "bg-gray-300"
-        }`}
-        onPress={handleTag2Toggle}
-      >
-        <Ionicons
-          name="ios-checkmark-circle"
-          size={24}
-          color={tag2Enabled ? "white" : "gray"}
-        />
-        <Text
-          className={`ml-2 ${tag2Enabled ? "text-white" : "text-gray-700"}`}
+          <Text style={{ color: currentTab === "Presets" ? "blue" : "gray" }}>
+            Presets
+          </Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={{ padding: 10 }}
+          onPress={() => handleTabPress("Topics")}
         >
-          Tag 2
-        </Text>
-      </TouchableOpacity>
+          <Text style={{ color: currentTab === "Filters" ? "blue" : "gray" }}>
+            Filters
+          </Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 };

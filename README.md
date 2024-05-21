@@ -4,46 +4,52 @@
 
 A rewrite of my Icebreaker application in React native (from native android Kotlin)
 
+![Logo](./assets/logo.jpg)
+
+
 ## Description
 
 Icebreaker is an app allowing you to loop through questions and games in casual conversations, on the dating scene nor with group of friends to easily get conversations going and avoid those awkward silences.
 
-The application gives you random but customized questions and games based on any topics you want (or don't want) and are ranked in 3 categories based on the social context: Casual questions, Deep/Personal questions and Group games.
+The application gives you random but customized questions and games based on any topics you want (or don't want). 
+
+![Preview](./assets/icebreaker.jpg)
+
+To have proper customisation, the filters with which you can select which questions come up are called topics, which are precise. They can consist of general aspects (#sport, #relationships, #etc) to set of games (#neverhaveiever, #drinkinggames) or levels of sensitivity of questions (#casual, #deep).
+
+![Preview of filters](./assets/icebreaker-filters.jpg)
+
+To make it easier for a user to not be overwhelmed, there is a Preset function that gives a more ordained sense by giving more general subjects, which will enable a certain group of topics (Party night will enable topics such as #drinkinggames #neverhaveiever, while presets like "Keep it Casual" will remove sensitive topics like sex or politics) 
 
 This is my first React native application, coming from someone with mostly regular React experience.
+
 
 ## Stack
 
 - React native
-- Expo Framework
+- Expo Framework v50
 - Nativewind
 - Firebase (TODO)
 
 ## Implemented Features
 
 - [x] Functional base Expo React Native code
+- [x] Base design
 - [x] React Native Navigation
-- [x] Splash Screen
 - [x] Menu Screen
-- [x] Category Selection Screen
-- [x] Topics selection Screen
+- [x] Filters Selection Screen
 - [x] Question Screen
-- [x] Random Question Generation from a dataset of questions
+- [x] Random Question Generation
 
 ## Pending Features
 
-- [ ] Filter Questions by Category
-- [ ] Filter Questions by topics
-- [ ] Improved Styling
-- [ ] List all topics
-- [ ] Exclude filters by topics
-- [ ] Like and dislike buttons
-- [ ] Sorting Questions by popularity
-- [ ] Adding Custom Logos
+- [ ] Presets Selection Screen
+- [ ] Dynamic listing of all topics
+- [ ] Exclude filters
+- [ ] Like and dislike questions / Popularity system
 - [ ] Localization Support
-- [ ] Unit Tests for Components
-- [ ] Fix Android Build Issues
-- [ ] Deployment to Google Store
+- [ ] AI integration for generating questions on the go
+- [ ] Deployment to Google Play Store
 - [ ] Deployment to iOS Store
 - [ ] User data from Google/Apple accounts
 
